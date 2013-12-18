@@ -1,6 +1,6 @@
 #include "voicecommand.h"
 
-# HG: changed sample frequency from 1600 to 11025 Hz for support with Philips ToU webcam (USB audio input)
+// HG: changed sample frequency from 1600 to 11025 Hz for support with Philips ToU webcam (USB audio input)
 
 using namespace std;
 using namespace boost;
